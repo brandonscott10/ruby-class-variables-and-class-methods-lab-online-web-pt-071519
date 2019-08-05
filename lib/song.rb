@@ -10,4 +10,4 @@ class Song
   end
   @@genres == []
   
-  
+end
