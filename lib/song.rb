@@ -11,4 +11,7 @@ class Song
   
   @@genres == []
   
+  def initialize
+    @@genres = genres
+  
 end
