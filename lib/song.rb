@@ -20,7 +20,6 @@ class Song
   end
 
   
-  # This is how the method is done on learn.co:
   def self.genre_count
     genre_count = {}
     @@genres.each do |genre|
