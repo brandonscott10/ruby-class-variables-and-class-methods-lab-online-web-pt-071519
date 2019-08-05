@@ -8,6 +8,7 @@ class Song
   def total 
     @@count.count 
   end
+  
   @@genres == []
   
 end
